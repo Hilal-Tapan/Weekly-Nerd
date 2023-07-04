@@ -1,5 +1,5 @@
 # Weekly-Nerd
-Check me weekly Nerd in me wiki of klink op deze linkjes:
+Check me weekly Nerd in me [wiki](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki) of klink op deze linkjes:
 
 ## Gastsprekers
 * [Susan Lau](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/Susan-Lau)
