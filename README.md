@@ -9,8 +9,12 @@ Check me weekly Nerd in me [wiki](https://github.com/Hilal-Tapan/Weekly-Nerd/wik
 * [Niels Leenheer](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/Niels-Leenheer)
 * [Hidde de Vries](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/Hidde-de-Vries)
 * [Level30Wizards](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/Level30wizards)
-* [NXT Museum]()
+* [NXT Museum](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/nxt-museum)
 * [Brian Buwuah](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/Brian-buwuah)
 * [Chanel](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/chanel)
 
 ## Artikelen
+* [Gsap](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/Gsap)
+* [Websockets](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/websockets)
+* [:has](https://github.com/Hilal-Tapan/Weekly-Nerd/wiki/:has)
+
